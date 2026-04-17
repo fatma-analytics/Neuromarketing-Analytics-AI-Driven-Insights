@@ -54,9 +54,15 @@ The strategy is validated through the **Neuromarketing Lab**:
 
 ## 📂 Project Structure
 
--   `NS - Project report.pdf`: Full strategic report detailing the neuromarketing and behavioral economics framework.
--   `SERENVE.pdf`: Brand identity and visual strategy overview.
+-   `NS - Project report.pdf`: *This is the full strategic report detailing the neuromarketing and behavioral economics framework. Due to its size and nature as a comprehensive deliverable, it is not directly included in this repository. A detailed summary is provided in `project_summary.md`.*
+-   `SERENVE.pdf`: *This document outlines the brand identity and visual strategy. Due to its size and nature as a comprehensive deliverable, it is not directly included in this repository.*
 -   `project_summary.md`: Executive summary of the core findings and methodology.
+
+---
+
+## 📖 How to Access Full Reports
+
+If you are a recruiter or interested party and wish to review the full `NS - Project report.pdf` or `SERENVE.pdf`, please contact Fatma Hammami directly. These documents contain in-depth strategic analysis, technical specifications, and detailed brand guidelines.
 
 ---
 
